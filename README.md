@@ -1,6 +1,6 @@
 CRUD приложение написанное с помощью react-hooks
 
-[Оригинал](https://github.com/taniarascia/react-hooks)
+[Текстовый туториал](https://maxpfrontend.ru/perevody/delaem-crud-prilozhenie-s-pomoschyu-react-hooks/) + [Оригинал](https://github.com/taniarascia/react-hooks)
 
 ---
 
